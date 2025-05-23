@@ -1,0 +1,1 @@
+# ekaymaz-argocd-demo
